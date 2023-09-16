@@ -14,6 +14,21 @@ Documentation: Include comprehensive documentation on how to run the application
 APK: Provide the APK for the Flutter front-end application.
 Postman Collection: Share a Postman collection containing the API endpoints for testing.
 
+How To Use App 
+
+Step 1 
+    Add Your Local IP Address
+    File Path : app/lib/backend/services/http.dart
+    Variable 
+        static String ip = "192.168.10.11";
+    
+    <img src="https://github.com/codinggero/progziel/blob/main/screen/08.png" width="350" title="hover text">
+
+Step 2 
+    Run Api 
+    Path : api
+    Cammand npm start
+
 
 <p align="center">
   <img src="https://github.com/codinggero/progziel/blob/main/screen/01.png" width="350" title="hover text">
@@ -26,9 +41,3 @@ Postman Collection: Share a Postman collection containing the API endpoints for 
 
 </p>
 
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/codinggero/progziel.git
-git push -u origin main
