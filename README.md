@@ -22,7 +22,7 @@ Step 1
     Variable 
         static String ip = "192.168.10.11";
     
- <p align="center">   <img src="https://github.com/codinggero/progziel/blob/main/screen/08.png" width="350" title="hover text"></p>
+ <p align="center">   <img src="https://github.com/codinggero/progziel/blob/main/screen/08.PNG" width="350" title="hover text"></p>
 
 Step 2 
     Run Api 
